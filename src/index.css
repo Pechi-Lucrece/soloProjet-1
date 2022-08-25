@@ -1,0 +1,101 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #282d35;
+}
+
+.container{
+  width: 50%;
+  text-align: center;
+  color: white;
+  background-color: #21222a;
+  margin-left: 25%;
+  margin-right: 25%;
+  border-radius: 25px;
+}
+
+.profil{
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+}
+
+h1{
+  margin-bottom: 2px;
+}
+h3{
+  color: burlywood;
+  margin-top: 2px;
+  margin-bottom: 4px;
+}
+
+h4{
+  margin-top: 15px;
+}
+
+.iconeHaut{
+  display: flex;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.mail{
+  align-items: center;
+  display: flex;
+  margin-left: 25px;
+  background-color: white;
+  color: black;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  margin-right: 50%;
+}
+
+.icone1{
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.linkedin{
+  align-items: center;
+  display: flex;
+  margin-left: 25px;
+  background-color:darkcyan;
+  color: white;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+}
+
+.icone2{
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+main{
+  text-align: left;
+  margin-left: 40px;
+}
+
+h2{
+  margin-top: 30px;
+  margin-bottom: 2px;
+}
+p{
+  margin-top: 2px;
+  margin-right: 35px;
+}
+
+footer{
+  display: flex;
+  background-color: #121312;
+  height: 40px;
+  align-items: center;
+}
+
+.foot{
+  margin-left: 5%; 
+  margin-right: 5%;
+  height: 30px;
+}
